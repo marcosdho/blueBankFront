@@ -5,6 +5,7 @@
 <p>3.- Compilar el proyecto ejecutando el comando <strong>npm run dev</strong>  </p>
 <p>4.- Para acceder es necesario colocar el proyecto en la carpeta www del servidor local</p>
 <p>5.- Para poder ver o ejecutar la aplicacion es necesario ir a la carpeta public en el navegador</p>
+<p>6.- nota importante, para poder correr la app es necesario desplegar la otra aplicacion llamada BlueBanckBackend ya que esta se va a conectar vía API con ella</p>
 
 <h3>Tecnologías</h3>
 <p>-HTML5</p>
